@@ -1,9 +1,9 @@
 <?php
   // Variables
   return [
-    "creatorName" => "EL RINCON DE ISMA",
+    "creatorName" => "Katherine y Wilberth",
     "creatorUrl" => "https://me.elrincondeisma.com/",
-    "templateName" => "ERDI",
+    "templateName" => "WIKA",
     "templateSuffix" => "Bootstrap Admin Template",
     "templateVersion" => "1.0.0",
     "templateFree" => true,
